@@ -1,6 +1,7 @@
-Flask==2.0.1
-Flask-Mail==0.9.1
-python-dotenv==0.21.0
-joblib==1.2.0
-pandas==2.0.1
-numpy==1.23.5
+Flask
+Flask-Mail
+python-dotenv
+joblib
+pandas
+numpy
+gunicorn
